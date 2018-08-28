@@ -1,0 +1,12 @@
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\bin\Debug\XBooster XYZ Register Bot.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\bin\Debug\XBooster XYZ Register Bot.exe
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\bin\Debug\XBooster XYZ Register Bot.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\bin\Debug\XBooster XYZ Register Bot.xml
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster XYZ Register Bot.vbprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster_XYZ_Register_Bot.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster_XYZ_Register_Bot.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster XYZ Register Bot.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster XYZ Register Bot.exe
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster XYZ Register Bot.xml
+c:\users\kevin\documents\visual studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster XYZ Register Bot.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\XBooster XYZ Register Bot\XBooster XYZ Register Bot\obj\Debug\XBooster_XYZ_Register_Bot.Account_Creater.resources
